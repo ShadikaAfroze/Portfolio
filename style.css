@@ -369,6 +369,9 @@ header .navbar ul li a:hover{
     border: 10px;
     font-size: 1.6rem;
 }
+.res ol li > ul {
+    margin-left: 2rem;   /* tab distance */
+}
 .portfolio .box-container{
     margin-top: 8rem;
 }
