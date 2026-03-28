@@ -376,6 +376,9 @@ header .navbar ul li a:hover{
     font-size: 1.5rem;
     color: #eee;
 }
+.res .box-container ol {
+    padding-left: 2rem;   /* aligns with container spacing */
+}
 .portfolio .box-container{
     margin-top: 8rem;
 }
