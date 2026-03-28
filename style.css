@@ -372,6 +372,10 @@ header .navbar ul li a:hover{
 .res ol li > ul {
     margin-left: 2rem;   /* tab distance */
 }
+.res .box-container {
+    font-size: 1.5rem;
+    color: #eee;
+}
 .portfolio .box-container{
     margin-top: 8rem;
 }
